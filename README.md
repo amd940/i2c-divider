@@ -1,5 +1,5 @@
 # i2c-divider
- A very simple i2c bus divider/splitter for hooking multiple i2c devices up to the same host device.
+ A very simple I²C bus divider/splitter for connecting multiple I²C devices to the same host device.
  
  Includes GERBER file so you can order your own PCBs. Created with EasyEDA.
 
